@@ -3,4 +3,4 @@ This repository contains the programming assignments and data contest for the co
 **Course Instructor**: [Harish Guruprasad Ramaswamy](https://sites.google.com/site/harishguruprasad/home?authuser=0)  
 **Course Session**: August to December 2022   
 **Course Website**: [Pattern Recognition and Machine Learning Aug-Dec 2022](https://sites.google.com/site/harishguruprasad/teaching/prml-aug-2022?authuser=0)   
-**Data Contest Website**: [Predict hotel survey experience and ratings](https://www.kaggle.com/competitions/datacon-22/overview) 
+**Data Contest Website**: [Predict hotel survey experience and ratings](https://www.kaggle.com/competitions/datacon-22/overview)  **(Ranked Fourth)**
